@@ -1,19 +1,24 @@
-# MARKDOWN
-# Título 1 => `# Título 1`
-## Título 2 => `## Título 2`
-### Título 3 => `### Título 3`
+# TÍTULOS:
+> Para criar um título, basta digitar uma cerquilha `#` antes do texto do título.<br>
+> Cada `#` representa um nível de título:
 
-## NEGRITO:
+`# = > Título de nível 1`
+`## => Título de nível 2`
+`### => Título de nível 3`
+
+E assim sucessivamente...
+
+# NEGRITO:
 `**Negrito**` => **Negrito**
 
 `__Negrito__` => __Negrito__
 
-## ITÁLICO:
+# ITÁLICO:
 `*Itálico*` => *Itálico*
 
 `_Itálico_` => _Itálico_
 
-## NEGRITO E ITÁLICO:
+# NEGRITO E ITÁLICO:
 `__*Negrito e Itálico*__` => __*Negrito e Itálico*__
 
 ## RISCADO:
@@ -24,7 +29,8 @@
 > OBS: _parece que só funciona em issues..._
 
 ## LISTAS:
-### NUMERADA:
+### ORDENADA:
+Para criar uma lista ordenada, basta digitar qualquer número, seguido de um ponto: 
 ```
 1. Item;
 1. Item;
@@ -32,14 +38,16 @@
    1. Subitem
 1. Item.
 ```
+A lista vai ficar em ordem crescente, como no exemplo baixo:
 1. Item;
 1. Item;
    1. Subitem
    1. Subitem
 1. Item.
 
-### INUMERADA:
+### NÃO ORDENADA:
 #### TIPO 1:
+Para criar uma lista sem necessidade de ordem, basta digitar um asterisco `*` antes dos itens:
 ```
 * Item;
 * Item;
@@ -47,6 +55,7 @@
    * Subitem
 * Item.
 ```
+Resultado:
 * Item;
 * Item;
    * Subitem
@@ -54,6 +63,7 @@
 * Item.
 
 #### TIPO 2:
+Também é possível criar uma lista não ordenada digitando um traço `-` antes dos itens:
 ```
 - Item;
 - Item;
@@ -61,6 +71,7 @@
    - Subitem;
 - Item.
 ```
+Resultado:
 - Item;
 - Item;
    - Subitem;
@@ -68,10 +79,11 @@
 - Item.
 
 ## LISTA DE TAREFAS:
+Use o código abaixo para criação de listas de tarefas:
 ```
 - [ ] Tarefa pendente;
 - [ ] Tarefa pendente;
-- [x] Tarefa completa.
+- [x] Tarefa realizada. Quando quiser indicar que uma tarefa já foi realizada, substitua o espaço entre os colchetes por um "x".
 ```
 - [ ] Tarefa pendente;
 - [ ] Tarefa pendente;
@@ -107,7 +119,7 @@ Num | Nome | Nota
 3 | José | 9,0
 
 ## CÓDIGO:
-Use as crases para envolver o código desejado: ` `código` `
+Use as crases ` `` ` para envolver o código desejado.
 
 ### Exemplo:
 O código `document.getElementById()` pertence a linguagem JavaScript.
