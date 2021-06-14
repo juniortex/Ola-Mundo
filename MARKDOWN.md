@@ -143,7 +143,7 @@ Use `@user` para marcar um perfil.
 
 ## REPLY (RESPOSTA):
 > Mensagem...
-<br>
+
 Sua resposta.
 
 [Acessar o Manual do Markdown do Guanabara.](https://github.com/gustavoguanabara/git-github/tree/master/manuais-PDF)
