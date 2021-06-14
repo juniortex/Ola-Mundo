@@ -24,7 +24,7 @@
 > OBS: _parece que só funciona em issues..._
 
 ## LISTAS:
-### NUMERDA:
+### NUMERADA:
 ```
 1. Item;
 1. Item;
@@ -78,17 +78,20 @@
 - [x] Tarefa completa.
 
 ## IMAGEM:
-![Descrição da imagem](url da imagem)
+Use ! + [Descrição da imagem] + (url da imagem)
 
+### Exemplo:
 `![Logo do Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)`
 ![Logo do Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 ## LINK:
-[Texto do link](url do link)
+Use [Texto do link](url do link)
 
+### Exemplo:
 `[github.com/juniortex](https://github.com/juniortex)` => [github.com/juniortex](https://github.com/juniortex)
 
 ## TABELA:
+Use o código a seguir para criar tabelas:
 ```
 Num | Nome | Nota
 ---|---|---
@@ -96,6 +99,7 @@ Num | Nome | Nota
 2 | Maria | 10,0
 3 | José | 9,0
 ```
+### Exemplo:
 Num | Nome | Nota
 ---|---|---
 1 | João | 8,5
@@ -103,13 +107,15 @@ Num | Nome | Nota
 3 | José | 9,0
 
 ## CÓDIGO:
-Use as crases para envolver o código desejado.
+Use as crases para envolver o código desejado: ` `` `
 
+### Exemplo:
 O código `document.getElementById()` pertence a linguagem JavaScript.
 
 ## CÓDIGO PRÉ-FORMATADO:
-Use as crases triplas ` ```código``` ` para envolver um código de várias linhas:
+Use as crases triplas para envolver um código de várias linhas: ` ```código``` `
 
+### Exemplo:
 O código abaixo, pertence ao JavaScript:
 ```
 num = Int(input('Digite o valor:'))
@@ -120,6 +126,9 @@ num = Int(input('Digite o valor:'))
 ```
 
 ## EMOJIS:
+Para usar emojis, deve-se colocar o nome do emoji entre dois pontos: `:nome do emoji:`
+
+### Exemplos:
 `:smiling_face_with_three_hearts:` => :smiling_face_with_three_hearts:<br>
 `:smiling_face_with_three_hearts:` => :smiling_face_with_three_hearts:<br>
 `:wink:`=> :wink:
@@ -127,7 +136,9 @@ num = Int(input('Digite o valor:'))
 Mais emojis neste [link.](https://github.com/ikatyang/emoji-cheat-sheet)
 
 ## MARCAR PERFIS:
-`@user` Exemplo: @microsoft
+Use `@user` para marcar um perfil.
+
+### Exemplo: @microsoft
 > OBS: _Também prece que só funciona em issues..._
 
 ## REPLY (RESPOSTA):
