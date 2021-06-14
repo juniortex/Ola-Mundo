@@ -116,12 +116,12 @@ LINHA 1 | A1 | B1 | C1
 LINHA 2 | A2 | B2 | C2
 LINHA 3 | A3 | B3 | C3
 ```
-### Exemplo:
-Num | Nome | Nota
----|---|---
-1 | João | 8,5
-2 | Maria | 10,0
-3 | José | 9,0
+>Exemplo:
+COLUNAS: | A | B | C
+---|---|---|---
+LINHA 1 | A1 | B1 | C1
+LINHA 2 | A2 | B2 | C2
+LINHA 3 | A3 | B3 | C3
 
 ## CÓDIGO:
 Use as crases ` `` ` para envolver o código desejado.
