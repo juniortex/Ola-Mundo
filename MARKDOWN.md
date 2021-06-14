@@ -57,7 +57,7 @@ Exemplo:
 [Texto do link](url)
 
 Exemplo:
-[github.com/juniortex](https://github.com/juniortex)
+![github.com/juniortex](https://github.com/juniortex)
 
 ## TABELA:
 Num | Nome | Nota
