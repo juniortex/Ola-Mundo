@@ -3,4 +3,4 @@
 
  modificado pelo *VScode*.
  
- Essa linha eu adicionei dietamente no site github.com.
+ Essa linha eu adicionei diretamente no site github.com.
