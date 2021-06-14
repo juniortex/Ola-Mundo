@@ -2,28 +2,27 @@
 > Para criar um título, basta digitar uma cerquilha `#` antes do texto do título.<br>
 > Cada `#` representa um nível de título:
 
-`# = > Título de nível 1`
-`## => Título de nível 2`
-`### => Título de nível 3`<br>
-`#### => Título de nível 4`
-`##### => Título de nível 5`
-`###### => Título de nível 6`
+`#` = > Título de nível 1
+`##` => Título de nível 2
+`###` => Título de nível 3<br>
+`####` => Título de nível 4
+`#####` => Título de nível 5
+`######` => Título de nível 6
 <br>
+
 # FORMATAÇÃO DE TEXTO:
 ## NEGRITO:
-> Para deixar um texto negrito, deve-se envolvê-lo entre um duplo par de asteriscos ou de underlines: `**texto** ou __texto__`
+> Para deixar um texto negrito, deve-se envolvê-lo entre um duplo par de asteriscos ou de underlines: `**texto**` ou `__texto__`
 
-Exemplos:<br>
-`**Negrito**` => **Negrito**
-
-`__Negrito__` => __Negrito__
+`**Negrito**` => **Negrito** ou `__Negrito__` => __Negrito__
 
 ## ITÁLICO:
-`*Itálico*` => *Itálico*
-
-`_Itálico_` => _Itálico_
+> Para deixar um texto itálico, deve-se envolvê-lo entre um par de asteriscos ou de underlines: `*texto*` ou `_texto_`
+`*Itálico*` => *Itálico* ou `_Itálico_` => _Itálico_
 
 # NEGRITO E ITÁLICO:
+> Para deixar um texto negrito e itálico, deve-se envolvê-lo entre um par de asteriscos, envolto em um duplo par de underlines: `__*texto*__`
+
 `__*Negrito e Itálico*__` => __*Negrito e Itálico*__
 
 ## RISCADO:
