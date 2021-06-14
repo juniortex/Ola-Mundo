@@ -15,12 +15,15 @@
 
 ## ITÁLICO:
 > Para deixar um texto itálico, deve-se envolvê-lo entre um par de asteriscos ou de underlines: `*texto*` ou `_texto_`
-`*Itálico*` => *Itálico* ou `_Itálico_` => _Itálico_
+
+`*Itálico*` => *Itálico* | `_Itálico_` => _Itálico_
+---|---
 
 # NEGRITO E ITÁLICO:
 > Para deixar um texto negrito e itálico, deve-se envolvê-lo entre um par de asteriscos, envolto em um duplo par de underlines: `__*texto*__`
 
 `__*Negrito e Itálico*__` => __*Negrito e Itálico*__
+---
 
 ## RISCADO:
 `~~Riscado~~` => ~~Riscado~~
