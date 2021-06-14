@@ -2,9 +2,9 @@
 > Para criar um título, basta digitar uma cerquilha `#` antes do texto do título.<br>
 > Cada `#` representa um nível de título:
 
+`#` = > Título de nível 1 | `##` => Título de nível 2 | `###` => Título de nível 3
 ---|---|---
-`#` = > Título de nível 1 | `##` => Título de nível 2 | `###` => Título de nível 3<br>
-`####` => Título de nível 4 | `#####` => Título de nível 5 | `######` => Título de nível 6<br>
+`####` => Título de nível 4 | `#####` => Título de nível 5 | `######` => Título de nível 6
 
 # FORMATAÇÃO DE TEXTO:
 ## NEGRITO:
