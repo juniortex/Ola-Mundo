@@ -16,7 +16,7 @@ __*Negrito e Itálico*__
 ~~Riscado~~
 
 ## LINHA HORIZONTAL:
-*** ---
+`*** ou ---`
 > OBS: _parece que só funciona em issues..._
 
 ## LISTAS:
@@ -49,8 +49,8 @@ __*Negrito e Itálico*__
 
 ## IMAGEM:
 `![Descrição da imagem](url da imagem)`
-Exemplo:
 
+Exemplo:
 ![Logo do Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 ## LINK:
@@ -85,8 +85,7 @@ num = Int(input('Digite o valor:'))
 Mais emojis neste [link.](https://github.com/ikatyang/emoji-cheat-sheet)
 
 ## MARCAR PERFIS:
-@user
-Exemplo: @microsoft
+`@user` Exemplo: @microsoft
 > OBS: _Também prece que só funciona em issues..._
 
 ## REPLY (RESPOSTA):
