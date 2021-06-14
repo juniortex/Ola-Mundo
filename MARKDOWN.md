@@ -96,8 +96,9 @@
 - [ ] Organizar as paltas.
 
 ## IMAGEM:
-> Para adicionarmos uma imagem, digitamos o seguinte: `![Descrição da imagem](url da imagem)`
+> Para adicionarmos uma imagem, digitamos o seguinte: `![Descrição da imagem](url da imagem)`<br>
 Exemplo: `![Logo do Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)`
+
 ![Logo do Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 ## LINK:
