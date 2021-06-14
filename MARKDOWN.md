@@ -139,10 +139,11 @@ Mais emojis neste [link.](https://github.com/ikatyang/emoji-cheat-sheet)
 Use `@user` para marcar um perfil.
 
 ### Exemplo: @microsoft
-> OBS: _Também prece que só funciona em issues..._
+> OBS: _parece que só funciona em issues..._
 
 ## REPLY (RESPOSTA):
 > Mensagem...
-<br>Sua resposta.
+<br>
+Sua resposta.
 
 [Acessar o Manual do Markdown do Guanabara.](https://github.com/gustavoguanabara/git-github/tree/master/manuais-PDF)
