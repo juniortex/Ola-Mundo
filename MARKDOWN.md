@@ -45,12 +45,11 @@
 1. Item.
 ```
 > A lista vai ficar em ordem crescente, como no exemplo baixo:
-1. Item; |
----|
-1. Item; |
-   1. Subitem |
-   1. Subitem |
-1. Item. |
+1. Item;
+1. Item;
+   1. Subitem
+   1. Subitem
+1. Item.
 
 ## NÃO ORDENADA:
 ### TIPO 1:
