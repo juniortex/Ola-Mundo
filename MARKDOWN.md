@@ -107,7 +107,7 @@ Num | Nome | Nota
 3 | José | 9,0
 
 ## CÓDIGO:
-Use as crases para envolver o código desejado: ` `` `
+Use as crases para envolver o código desejado: ` `código` `
 
 ### Exemplo:
 O código `document.getElementById()` pertence a linguagem JavaScript.
@@ -126,7 +126,7 @@ num = Int(input('Digite o valor:'))
 ```
 
 ## EMOJIS:
-Para usar emojis, deve-se colocar o nome do emoji entre dois pontos: `:nome do emoji:`
+Para usar emojis, deve-se colocar o nome do emoji entre dois pontos: `:nome_do_emoji:`
 
 ### Exemplos:
 `:smiling_face_with_three_hearts:` => :smiling_face_with_three_hearts:<br>
@@ -143,6 +143,6 @@ Use `@user` para marcar um perfil.
 
 ## REPLY (RESPOSTA):
 > Mensagem...
-Sua resposta.
+<br>Sua resposta.
 
 [Acessar o Manual do Markdown do Guanabara.](https://github.com/gustavoguanabara/git-github/tree/master/manuais-PDF)
