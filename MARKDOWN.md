@@ -1,23 +1,23 @@
 # MARKDOWN
-# Título 1 `# Título 1`
-## Título 2 `## Título 2`
-### Título 3 `### Título 3`
+# Título 1 => `# Título 1`
+## Título 2 => `## Título 2`
+### Título 3 => `### Título 3`
 
 ## NEGRITO:
-`**Negrito**` **Negrito**
+`**Negrito**` => **Negrito**
 
-`__Negrito__`__Negrito__
+`__Negrito__` => __Negrito__
 
 ## ITÁLICO:
-`*Itálico*` *Itálico*
+`*Itálico*` => *Itálico*
 
-`_Itálico_` _Itálico_
+`_Itálico_` => _Itálico_
 
 ## NEGRITO E ITÁLICO:
-`__*Negrito e Itálico*__` __*Negrito e Itálico*__
+`__*Negrito e Itálico*__` => __*Negrito e Itálico*__
 
 ## RISCADO:
-`~~Riscado~~` ~~Riscado~~
+`~~Riscado~~` => ~~Riscado~~
 
 ## LINHA HORIZONTAL:
 `*** ou ---`
@@ -84,10 +84,9 @@
 ![Logo do Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 ## LINK:
-[Texto do link](url)
+[Texto do link](url do link)
 
-`[github.com/juniortex](https://github.com/juniortex)`
-[github.com/juniortex](https://github.com/juniortex)
+`[github.com/juniortex](https://github.com/juniortex)` => [github.com/juniortex](https://github.com/juniortex)
 
 ## TABELA:
 ```
@@ -104,15 +103,13 @@ Num | Nome | Nota
 3 | José | 9,0
 
 ## CÓDIGO:
-Use as crases ` `código` ` para envolver o código desejado.
+Use as crases para envolver o código desejado.
 
-Exemplo:
 O código `document.getElementById()` pertence a linguagem JavaScript.
 
 ## CÓDIGO PRÉ-FORMATADO:
-Use as crases triplas ` ```código``` `para envolver um código de várias linhas:
+Use as crases triplas ` ```código``` ` para envolver um código de várias linhas:
 
-Exemplo:
 O código abaixo, pertence ao JavaScript:
 ```
 num = Int(input('Digite o valor:'))
@@ -123,8 +120,8 @@ num = Int(input('Digite o valor:'))
 ```
 
 ## EMOJIS:
-`:smiling_face_with_three_hearts:` => :smiling_face_with_three_hearts:
-`:smiling_face_with_three_hearts:` => :smiling_face_with_three_hearts:
+`:smiling_face_with_three_hearts:` => :smiling_face_with_three_hearts:<br>
+`:smiling_face_with_three_hearts:` => :smiling_face_with_three_hearts:<br>
 `:wink:`=> :wink:
 
 Mais emojis neste [link.](https://github.com/ikatyang/emoji-cheat-sheet)
