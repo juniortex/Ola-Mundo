@@ -142,6 +142,9 @@ Use `@user` para marcar um perfil.
 > OBS: _parece que só funciona em issues..._
 
 ## REPLY (RESPOSTA):
+Use o sinal de maior `>` + `a mensagem que você petende responder` para marcá-la e respondê-la.
+
+### Exemplo:
 > Mensagem...
 
 Sua resposta.
