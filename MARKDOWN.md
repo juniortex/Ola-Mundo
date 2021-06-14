@@ -19,7 +19,7 @@
 `*Itálico*` => *Itálico* | `_Itálico_` => _Itálico_
 ---|---
 
-# NEGRITO E ITÁLICO:
+## NEGRITO E ITÁLICO:
 > Para deixar um texto negrito e itálico, deve-se envolvê-lo entre um par de asteriscos, envolto em um duplo par de underlines: `__*texto*__`
 
 `__*Negrito e Itálico*__` => __*Negrito e Itálico*__
@@ -30,14 +30,13 @@
 `~~Riscado~~` => ~~Riscado~~
 ---|
 
-## LINHA HORIZONTAL:
+# LINHA HORIZONTAL:
 > Para criar uma linha horizontal, basta digitar 3 vezes o traço: `---`
 ---
----|
 
-## LISTAS:
-### ORDENADA:
-Para criar uma lista ordenada, basta digitar qualquer número, seguido de um ponto: 
+# LISTAS:
+## ORDENADA:
+Para criar uma lista ordenada, basta digitar qualquer número, seguido de um ponto, antes dos itens: 
 ```
 1. Item;
 1. Item;
@@ -52,8 +51,8 @@ A lista vai ficar em ordem crescente, como no exemplo baixo:
    1. Subitem
 1. Item.
 
-### NÃO ORDENADA:
-#### TIPO 1:
+## NÃO ORDENADA:
+### TIPO 1:
 Para criar uma lista sem necessidade de ordem, basta digitar um asterisco `*` antes dos itens:
 ```
 * Item;
@@ -69,7 +68,7 @@ Resultado:
    * Subitem
 * Item.
 
-#### TIPO 2:
+### TIPO 2:
 Também é possível criar uma lista não ordenada digitando um traço `-` antes dos itens:
 ```
 - Item;
