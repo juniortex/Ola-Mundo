@@ -26,11 +26,14 @@
 ---|
 
 ## RISCADO:
+> Para deixar um texto riscado, deve-se envolvê-lo entre um duplo par de tios: `~~texto~~`
 `~~Riscado~~` => ~~Riscado~~
+---|
 
 ## LINHA HORIZONTAL:
-`---`
+> Para criar uma linha horizontal, basta digitar 3 vezes o traço: `---`
 ---
+---|
 
 ## LISTAS:
 ### ORDENADA:
