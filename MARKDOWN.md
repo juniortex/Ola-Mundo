@@ -51,13 +51,13 @@ __*Negrito e Itálico*__
 ![Descrição da imagem](url da imagem)
 Exemplo:
 
-[Logo do Github](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmodules%2Flogos_page%2FOctocat.png&imgrefurl=https%3A%2F%2Fgithub.com%2Flogos&tbnid=fLKD7QptF_vjyM&vet=12ahUKEwj0l4yUiZbxAhWQN7kGHUyrBNgQMygAegUIARC1AQ..i&docid=H8p6HHzcTglWAM&w=800&h=665&q=logo%20do%20github&ved=2ahUKEwj0l4yUiZbxAhWQN7kGHUyrBNgQMygAegUIARC1AQ)
+![Logo do Github](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmodules%2Flogos_page%2FOctocat.png&imgrefurl=https%3A%2F%2Fgithub.com%2Flogos&tbnid=fLKD7QptF_vjyM&vet=12ahUKEwj0l4yUiZbxAhWQN7kGHUyrBNgQMygAegUIARC1AQ..i&docid=H8p6HHzcTglWAM&w=800&h=665&q=logo%20do%20github&ved=2ahUKEwj0l4yUiZbxAhWQN7kGHUyrBNgQMygAegUIARC1AQ)
 
 ## LINK:
 [Texto do link](url)
 
 Exemplo:
-![github.com/juniortex](https://github.com/juniortex)
+[github.com/juniortex](https://github.com/juniortex)
 
 ## TABELA:
 Num | Nome | Nota
