@@ -1,22 +1,21 @@
 # MARKDOWN
-`# Título 1`
-# Título 1
-`# Título 2`
-## Título 2
-`# Título 3`
-### Título 3
+#Título 1 `# Título 1`
+## Título 2 `## Título 2`
+### Título 3 `### Título 3`
 
 ## NEGRITO:
-`**Negrito** ou __Negrito__` Exemplos: **Negrito** __Negrito__
+`**Negrito**` **Negrito**
+`__Negrito__`__Negrito__
 
 ## ITÁLICO:
-`*Itálico* ou _Itálico_` Exemplo: *Itálico* _Itálico_
+`*Itálico*` *Itálico*
+`_Itálico_` _Itálico_
 
 ## NEGRITO E ITÁLICO:
-`__*Negrito e Itálico*__` Exemplo: __*Negrito e Itálico*__
+`__*Negrito e Itálico*__` __*Negrito e Itálico*__
 
 ## RISCADO:
-`~~Riscado~~` Exemplo: ~~Riscado~~
+`~~Riscado~~` ~~Riscado~~
 
 ## LINHA HORIZONTAL:
 `*** ou ---`
