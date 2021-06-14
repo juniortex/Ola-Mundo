@@ -85,17 +85,18 @@
 - Item.
 
 ## LISTA DE TAREFAS:
-> Use o código abaixo para criação de listas de tarefas:
-```
-- [ ] Tarefa pendente.
-```
-> Quando quiser indicar que uma tarefa já foi realizada, substitua o espaço entre os colchetes por um "x".
+> Para criarmos uma tarefa, devemos digitar o seguinte: `- [ ] Descrição da tarefa.`
+- [ ] Agendar reunião.
+
+> Quando quisermos indicar que uma tarefa já foi realizada, substituiremos o espaço entre os colchetes por um "x".
 ```
 - [x] Tarefa realizada.
 ```
-> Assim você pode montar uma lista de tarefas que indique o status de cada uma:
-- [x] Tarefa realizada;
-- [ ] Tarefa pendente.
+- [x] Tarefa realizada.
+
+> Assim podemos montar uma lista de tarefas que indique o status de cada uma:
+- [x] Agendar reunião;
+- [ ] Organizar as paltas.
 
 ## IMAGEM:
 > Use `!` + `[Descrição da imagem]` + `(url da imagem)`
