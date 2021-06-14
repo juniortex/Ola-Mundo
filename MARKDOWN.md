@@ -23,14 +23,14 @@
 > Para deixar um texto negrito e itálico, deve-se envolvê-lo entre um par de asteriscos, envolto em um duplo par de underlines: `__*texto*__`
 
 `__*Negrito e Itálico*__` => __*Negrito e Itálico*__
----
+---|
 
 ## RISCADO:
 `~~Riscado~~` => ~~Riscado~~
 
 ## LINHA HORIZONTAL:
-`*** ou ---`
-> OBS: _parece que só funciona em issues..._
+`---`
+---
 
 ## LISTAS:
 ### ORDENADA:
