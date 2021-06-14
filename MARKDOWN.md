@@ -117,6 +117,7 @@ LINHA 2 | A2 | B2 | C2
 LINHA 3 | A3 | B3 | C3
 ```
 >Exemplo:
+
 COLUNAS: | A | B | C
 ---|---|---|---
 LINHA 1 | A1 | B1 | C1
