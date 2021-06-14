@@ -5,10 +5,12 @@
 
 ## NEGRITO:
 `**Negrito**` **Negrito**
+
 `__Negrito__`__Negrito__
 
 ## ITÁLICO:
 `*Itálico*` *Itálico*
+
 `_Itálico_` _Itálico_
 
 ## NEGRITO E ITÁLICO:
@@ -59,6 +61,11 @@
    - Subitem;
 - Item.
 ```
+- Item;
+- Item;
+   - Subitem;
+   - Subitem;
+- Item.
 
 ## LISTA DE TAREFAS:
 ```
@@ -71,16 +78,14 @@
 - [x] Tarefa completa.
 
 ## IMAGEM:
-`![Descrição da imagem](url da imagem)`
+![Descrição da imagem](url da imagem)
 
-Exemplo:
 `![Logo do Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)`
 ![Logo do Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 ## LINK:
-`[Texto do link](url)`
+[Texto do link](url)
 
-Exemplo:
 `[github.com/juniortex](https://github.com/juniortex)`
 [github.com/juniortex](https://github.com/juniortex)
 
