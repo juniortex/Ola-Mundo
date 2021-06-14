@@ -102,10 +102,10 @@ Exemplo: `![Logo do Github](https://github.githubassets.com/images/modules/logos
 ![Logo do Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 ## LINK:
-> Use `[Texto do link](url do link)`
+> Para adicionarmos um link, utilizamos o seguinte: `[Texto do link](url do link)`<br>
+Exemplo: `[github.com/juniortex](https://github.com/juniortex)`
 
-### Exemplo:
-`[github.com/juniortex](https://github.com/juniortex)` => [github.com/juniortex](https://github.com/juniortex)
+[Veja meu perfil do Github](https://github.com/juniortex)
 
 ## TABELA:
 > Use o código a seguir para criar tabelas:
