@@ -87,12 +87,8 @@
 ## LISTA DE TAREFAS:
 > Para criarmos uma tarefa, devemos digitar o seguinte: `- [ ] Descrição da tarefa.`
 - [ ] Agendar reunião.
----|
 
-> Quando quisermos indicar que uma tarefa já foi realizada, substituiremos o espaço entre os colchetes por um "x".
-```
-- [x] Tarefa realizada.
-```
+> Quando quisermos indicar que uma tarefa já foi realizada, substituiremos o espaço entre os colchetes por um "x": `- [x] Tarefa realizada.`
 - [x] Tarefa realizada.
 
 > Assim podemos montar uma lista de tarefas que indique o status de cada uma:
