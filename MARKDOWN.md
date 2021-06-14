@@ -36,7 +36,7 @@
 
 # LISTAS:
 ## ORDENADA:
-Para criar uma lista ordenada, basta digitar qualquer número, seguido de um ponto, antes dos itens: 
+> Para criar uma lista ordenada, basta digitar qualquer número, seguido de um ponto, antes dos itens: 
 ```
 1. Item;
 1. Item;
@@ -44,7 +44,7 @@ Para criar uma lista ordenada, basta digitar qualquer número, seguido de um pon
    1. Subitem
 1. Item.
 ```
-A lista vai ficar em ordem crescente, como no exemplo baixo:
+> A lista vai ficar em ordem crescente, como no exemplo baixo:
 1. Item; |
 ---|
 1. Item; |
@@ -54,7 +54,7 @@ A lista vai ficar em ordem crescente, como no exemplo baixo:
 
 ## NÃO ORDENADA:
 ### TIPO 1:
-Para criar uma lista sem necessidade de ordem, basta digitar um asterisco `*` antes dos itens:
+> Para criar uma lista sem necessidade de ordem, basta digitar um asterisco `*` antes dos itens:
 ```
 * Item;
 * Item;
@@ -62,7 +62,7 @@ Para criar uma lista sem necessidade de ordem, basta digitar um asterisco `*` an
    * Subitem
 * Item.
 ```
-Resultado:
+> Resultado:
 * Item;
 * Item;
    * Subitem
@@ -70,7 +70,7 @@ Resultado:
 * Item.
 
 ### TIPO 2:
-Também é possível criar uma lista não ordenada digitando um traço `-` antes dos itens:
+> Também é possível criar uma lista não ordenada digitando um traço `-` antes dos itens:
 ```
 - Item;
 - Item;
@@ -78,7 +78,7 @@ Também é possível criar uma lista não ordenada digitando um traço `-` antes
    - Subitem;
 - Item.
 ```
-Resultado:
+> Resultado:
 - Item;
 - Item;
    - Subitem;
@@ -86,31 +86,38 @@ Resultado:
 - Item.
 
 ## LISTA DE TAREFAS:
-Use o código abaixo para criação de listas de tarefas:
+> Use o código abaixo para criação de listas de tarefas:
 ```
 - [ ] Tarefa pendente;
 - [ ] Tarefa pendente;
-- [x] Tarefa realizada. Quando quiser indicar que uma tarefa já foi realizada, substitua o espaço entre os colchetes por um "x".
+- [ ] Tarefa pendente.
 ```
+> Quando quiser indicar que uma tarefa já foi realizada, substitua o espaço entre os colchetes por um "x".
+```
+- [x] Tarefa realizada;
+- [x] Tarefa realizada;
+- [x] Tarefa realizada.
+```
+> Resultado:
 - [ ] Tarefa pendente;
 - [ ] Tarefa pendente;
 - [x] Tarefa completa.
 
 ## IMAGEM:
-Use ! + [Descrição da imagem] + (url da imagem)
+> Use `!` + `[Descrição da imagem]` + `(url da imagem)`
 
 ### Exemplo:
 `![Logo do Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)`
 ![Logo do Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 ## LINK:
-Use [Texto do link](url do link)
+> Use `[Texto do link](url do link)`
 
 ### Exemplo:
 `[github.com/juniortex](https://github.com/juniortex)` => [github.com/juniortex](https://github.com/juniortex)
 
 ## TABELA:
-Use o código a seguir para criar tabelas:
+> Use o código a seguir para criar tabelas:
 ```
 Num | Nome | Nota
 ---|---|---
