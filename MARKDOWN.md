@@ -8,12 +8,12 @@
 `#### => Título de nível 4`
 `##### => Título de nível 5`
 `###### => Título de nível 6`
-
+<br>
 # FORMATAÇÃO DE TEXTO:
 ## NEGRITO:
-> Para deixar um texto negrito, deve-se envolvê-lo entre um dulpo par de asteriscos ou de underlines `**texto** ou __texto__`.
+> Para deixar um texto negrito, deve-se envolvê-lo entre um duplo par de asteriscos ou de underlines: `**texto** ou __texto__`
 
-Exemplos:
+Exemplos:<br>
 `**Negrito**` => **Negrito**
 
 `__Negrito__` => __Negrito__
