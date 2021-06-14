@@ -103,18 +103,18 @@ Exemplo: `![Logo do Github](https://github.githubassets.com/images/modules/logos
 
 ## LINK:
 > Para adicionarmos um link, utilizamos o seguinte: `[Texto do link](url do link)`<br>
-Exemplo: `[github.com/juniortex](https://github.com/juniortex)`
+Exemplo: `[Veja meu perfil do Github](https://github.com/juniortex)`
 
 [Veja meu perfil do Github](https://github.com/juniortex)
 
 ## TABELA:
 > Use o código a seguir para criar tabelas:
 ```
-Num | Nome | Nota
----|---|---
-1 | João | 8,5
-2 | Maria | 10,0
-3 | José | 9,0
+COLUNAS: | A | B | C
+---|---|---|---
+LINHA 1 | A1 | B1 | C1
+LINHA 2 | A2 | B2 | C2
+LINHA 3 | A3 | B3 | C3
 ```
 ### Exemplo:
 Num | Nome | Nota
