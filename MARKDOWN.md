@@ -4,17 +4,21 @@
 
 `# = > Título de nível 1`
 `## => Título de nível 2`
-`### => Título de nível 3`
+`### => Título de nível 3`<br>
 `#### => Título de nível 4`
 `##### => Título de nível 5`
 `###### => Título de nível 6`
 
-# NEGRITO:
+# FORMATAÇÃO DE TEXTO:
+## NEGRITO:
+> Para deixar um texto negrito, deve-se envolvê-lo entre um dulpo par de asteriscos ou de underlines `**texto** ou __texto__`.
+
+Exemplos:
 `**Negrito**` => **Negrito**
 
 `__Negrito__` => __Negrito__
 
-# ITÁLICO:
+## ITÁLICO:
 `*Itálico*` => *Itálico*
 
 `_Itálico_` => _Itálico_
