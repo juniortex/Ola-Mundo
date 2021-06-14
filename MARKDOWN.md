@@ -1,19 +1,22 @@
 # MARKDOWN
+`# Título 1`
 # Título 1
+`# Título 2`
 ## Título 2
+`# Título 3`
 ### Título 3
 
 ## NEGRITO:
-**Negrito** __Negrito__
+`**Negrito** ou __Negrito__` Exemplos: **Negrito** __Negrito__
 
 ## ITÁLICO:
-*Itálico* _Itálico_
+`*Itálico* ou _Itálico_` Exemplo: *Itálico* _Itálico_
 
 ## NEGRITO E ITÁLICO:
-__*Negrito e Itálico*__
+`__*Negrito e Itálico*__` Exemplo: __*Negrito e Itálico*__
 
 ## RISCADO:
-~~Riscado~~
+`~~Riscado~~` Exemplo: ~~Riscado~~
 
 ## LINHA HORIZONTAL:
 `*** ou ---`
@@ -21,6 +24,13 @@ __*Negrito e Itálico*__
 
 ## LISTAS:
 ### NUMERDA:
+```
+1. Item;
+1. Item;
+   1. Subitem
+   1. Subitem
+1. Item.
+```
 1. Item;
 1. Item;
    1. Subitem
@@ -29,6 +39,13 @@ __*Negrito e Itálico*__
 
 ### INUMERADA:
 #### TIPO 1:
+```
+* Item;
+* Item;
+   * Subitem
+   * Subitem
+* Item.
+```
 * Item;
 * Item;
    * Subitem
@@ -36,13 +53,20 @@ __*Negrito e Itálico*__
 * Item.
 
 #### TIPO 2:
+```
 - Item;
 - Item;
    - Subitem;
    - Subitem;
 - Item.
+```
 
 ## LISTA DE TAREFAS:
+```
+- [ ] Tarefa pendente;
+- [ ] Tarefa pendente;
+- [x] Tarefa completa.
+```
 - [ ] Tarefa pendente;
 - [ ] Tarefa pendente;
 - [x] Tarefa completa.
@@ -51,15 +75,24 @@ __*Negrito e Itálico*__
 `![Descrição da imagem](url da imagem)`
 
 Exemplo:
+`![Logo do Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)`
 ![Logo do Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 ## LINK:
 `[Texto do link](url)`
 
 Exemplo:
+`[github.com/juniortex](https://github.com/juniortex)`
 [github.com/juniortex](https://github.com/juniortex)
 
 ## TABELA:
+```
+Num | Nome | Nota
+---|---|---
+1 | João | 8,5
+2 | Maria | 10,0
+3 | José | 9,0
+```
 Num | Nome | Nota
 ---|---|---
 1 | João | 8,5
@@ -67,9 +100,15 @@ Num | Nome | Nota
 3 | José | 9,0
 
 ## CÓDIGO:
+Use as crases ` `código` ` para envolver o código desejado.
+
+Exemplo:
 O código `document.getElementById()` pertence a linguagem JavaScript.
 
 ## CÓDIGO PRÉ-FORMATADO:
+Use as crases triplas ` ```código``` `para envolver um código de várias linhas:
+
+Exemplo:
 O código abaixo, pertence ao JavaScript:
 ```
 num = Int(input('Digite o valor:'))
@@ -80,7 +119,9 @@ num = Int(input('Digite o valor:'))
 ```
 
 ## EMOJIS:
-:smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :wink:
+`:smiling_face_with_three_hearts:` => :smiling_face_with_three_hearts:
+`:smiling_face_with_three_hearts:` => :smiling_face_with_three_hearts:
+`:wink:`=> :wink:
 
 Mais emojis neste [link.](https://github.com/ikatyang/emoji-cheat-sheet)
 
