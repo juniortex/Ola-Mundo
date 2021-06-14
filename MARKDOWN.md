@@ -3,14 +3,15 @@
 > Cada `#` representa um nível de título:
 
 `#` = > Título de nível 1 | `##` => Título de nível 2 | `###` => Título de nível 3
-`####` => Título de nível 4 | `#####` => Título de nível 5 | `######` => Título de nível 6
 ---|---|---
+`####` => Título de nível 4 | `#####` => Título de nível 5 | `######` => Título de nível 6
 
 # FORMATAÇÃO DE TEXTO:
 ## NEGRITO:
 > Para deixar um texto negrito, deve-se envolvê-lo entre um duplo par de asteriscos ou de underlines: `**texto**` ou `__texto__`
 
-`**Negrito**` => **Negrito** ou `__Negrito__` => __Negrito__
+`**Negrito**` => **Negrito** | `__Negrito__` => __Negrito__
+---|---
 
 ## ITÁLICO:
 > Para deixar um texto itálico, deve-se envolvê-lo entre um par de asteriscos ou de underlines: `*texto*` ou `_texto_`
